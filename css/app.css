@@ -1,0 +1,50 @@
+.bi-camera{
+    text-align: center;
+    padding-top: 0px;
+}
+#active{
+    color: #ffffff;
+}
+
+.cím{
+    text-align: center;
+    margin-top: 25px;
+}
+.cím .btn{
+    width: auto;
+    margin-top: 15px;
+}
+.cards{
+    background-color: #b3c2c4;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 80%;
+    padding: 10px;
+}
+.maincard{
+    padding-top: 15px;
+}
+.maincard img{
+    margin: 4px;
+    width: 97%;
+}
+.card{
+    margin: 10px;
+}
+
+.navbar{
+    background-color: #3781d1;
+    color: white;
+}
+
+.navbar a{
+    color: #80bdff;
+}
+
+.row{
+    margin: auto;
+}
